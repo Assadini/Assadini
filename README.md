@@ -13,4 +13,4 @@
 🔗 Traverse the pathways of my repositories, explore the artifacts of my digital odyssey, and together, let us script the next chapter in the saga of technological evolution.
 
 🎯 Bound by the shared quest for knowledge and driven by the collective dream of a brighter tomorrow, let us forge ahead, for the adventure awaits!
-[![Assadini's GitHub stats](https://github-readme-stats.vercel.app/api?username=assadini)](https://github.com/assadini/github-readme-stats)
+[![Assadini's GitHub stats](https://github-readme-stats.vercel.app/api?username=assadini)]
