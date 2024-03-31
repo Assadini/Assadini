@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Taha<br><br>👨‍💻 I am a digital wanderer traversing the vast expanse of bytes and bits, sharing about my journey and learnings in tech.<br><br>💡 Amidst the digital ether, I am harnessing the power of Web developement, Desktop applications, Databases management.<br><br>🔧 When not ensorcelled by the binary dance, I revel in the earthly delights of 3d design.<br><br>🔗 Traverse the pathways of my repositories, explore the artifacts of my digital odyssey.
+# Hi, I'm Taha<br>
+👨‍💻 I am a digital wanderer traversing the vast expanse of bytes and bits, sharing about my journey and learnings in tech.<br><br>💡 Amidst the digital ether, I am harnessing the power of Web developement, Desktop applications, Databases management.<br><br>🔧 When not ensorcelled by the binary dance, I revel in the earthly delights of 3d design.<br><br>🔗 Traverse the pathways of my repositories, explore the artifacts of my digital odyssey.
 
 
 # 💻 Tech Stack:
