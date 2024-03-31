@@ -15,4 +15,4 @@
 🎯 Bound by the shared quest for knowledge and driven by the collective dream of a brighter tomorrow, let us forge ahead, for the adventure awaits!
 
 
-[Assadini's GitHub stats](https://github-readme-stats.vercel.app/api?username=assadini)
+![Assadini's GitHub stats](https://github-readme-stats.vercel.app/api?username=assadini)
